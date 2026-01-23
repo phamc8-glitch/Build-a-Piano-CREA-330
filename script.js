@@ -61,6 +61,3 @@ if (catbuttonKeyIndex > -1) {
 
 });
 
-
-});
-
